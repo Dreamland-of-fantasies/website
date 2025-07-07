@@ -1,7 +1,10 @@
 //Dynamic adding articles
 document.addEventListener('DOMContentLoaded', function () {
     const home = document.getElementById('home');
-    const maxProducts=8;
+    const maxProducts=5;
+    // Filter out products with category 'ring'
+    const filteredProducts = products.filter(product => product.category !== 'ring');
+
     // Shuffle the filtered products array
     const shuffledProducts = filteredProducts.sort(() => 0.5 - Math.random());
 
