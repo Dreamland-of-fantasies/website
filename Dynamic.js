@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const maxProducts=5;
     // Filter out products with category 'ring'
     const filteredProducts = products.filter(product => product.category !== 'ring');
-
+ 
     // Shuffle the filtered products array
     const shuffledProducts = filteredProducts.sort(() => 0.5 - Math.random());
 
