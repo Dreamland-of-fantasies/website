@@ -10,7 +10,7 @@ const products = [
   { name: "COMPLETE FULL ROMPER (REFER COLLAGE FOR PRICES)", image: "https://dreamland-of-fantasies.github.io/website/photos/K.jpeg", price: 1100, category: ["kids"] },
   { name: "CUSTOMISED TUMBLER (350 mL)", image: "https://dreamland-of-fantasies.github.io/website/photos/A7.jpeg", price: 599, category: ["trending"] },
   { name: "PASTEL PASSPORT COVER", image: "https://dreamland-of-fantasies.github.io/website/photos/A5.jpeg", price: 499, category: ["trending"] },
-  { name: "TRAVELLING ESSENTIAL COMBO", image: "https://dreamland-of-fantasies.github.io/website/photos/A4.jpeg", price: 1199, category: ["trending"] },
+  { name: "TRAVELLING ESSENTIAL COMBO", image: "https://dreamland-of-fantasies.github.io/website/photos/A4.jpeg", price: 1199, category: ["kids"] },
   { name: "SET OF 3 NECKPILLOW,EYEMASK,LUGGAGE TAG", image: "https://dreamland-of-fantasies.github.io/website/photos/A3.jpeg", price: 649, category: ["trending"] },
   { name: "BRANDED PERSONALISED TOWEL", image: "https://dreamland-of-fantasies.github.io/website/photos/A2.jpeg", price: 749, category: ["trending"] },
   { name: "PASSPORT COVER (3 charms)",  image: "https://dreamland-of-fantasies.github.io/website/photos/A.jpeg",  price: 499, category: ["trending"] },
