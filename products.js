@@ -1,0 +1,18 @@
+const products = [
+  { name: "KA7", image: "photos/KA7.jpeg", price: 0, category: ["kids", "trending"] },
+  { name: "KA6", image: "photos/KA6.jpeg", price: 0, category: ["kids", "trending"] },
+  { name: "KA3", image: "photos/KA3.jpeg", price: 0, category: ["kids", "trending"] },
+  { name: "KA1", image: "photos/KA1.jpeg", price: 0, category: ["kids", "trending"] },
+  { name: "K7", image: "photos/K7.jpeg", price: 0, category: ["kids"] },
+  { name: "K5", image: "photos/K5.jpeg", price: 0, category: ["kids"] },
+  { name: "K4", image: "photos/K4.jpeg", price: 0, category: ["kids"] },
+  { name: "K3", image: "photos/K3.jpeg", price: 0, category: ["kids"] },
+  { name: "K2", image: "photos/K2.jpeg", price: 0, category: ["kids"] },
+  { name: "K", image: "photos/K.jpeg", price: 0, category: ["kids"] },
+  { name: "A7", image: "photos/A7.jpeg", price: 0, category: ["trending"] },
+  { name: "A5", image: "photos/A5.jpeg", price: 0, category: ["trending"] },
+  { name: "A4", image: "photos/A4.jpeg", price: 0, category: ["trending"] },
+  { name: "A3", image: "photos/A3.jpeg", price: 0, category: ["trending"] },
+  { name: "A2", image: "photos/A2.jpeg", price: 0, category: ["trending"] },
+  { name: "A",  image: "photos/A.jpeg",  price: 0, category: ["trending"] },
+];
